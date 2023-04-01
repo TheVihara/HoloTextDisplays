@@ -1,0 +1,4 @@
+name: HoloTextDisplays
+version: '${version}'
+main: me.gorenjec.holotextdisplays.HoloTextDisplays
+api-version: 1.19
